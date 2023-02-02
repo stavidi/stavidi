@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on repositories:
+ + stepik [bookmarklets](/stavidi/stepik-bookmarklets)
+ + stepik [catalog courses api](/stavidi/stepik-catalogue "utilities")
+
+About me: I love :coffee: and :pizza:
+
 <!--
 **stavidi/stavidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
