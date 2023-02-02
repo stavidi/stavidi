@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on repositories:
-  + stepik [bookmarklets](/stavidi/stepik-bookmarklets)
-  + stepik [catalog courses api](/stavidi/stepik-catalogue "utilities")
+  + stepik [bookmarklets](https://github.com/stavidi/stepik-bookmarklets)
+  + stepik [catalog courses api](https://github.com/stavidi/stepik-catalogue "utilities")
 
 About me: I love coffee :coffee: and pizza :pizza:
 
