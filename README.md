@@ -4,7 +4,7 @@
   + stepik [bookmarklets](https://github.com/stavidi/stepik-bookmarklets)
   + stepik [catalog courses api](https://github.com/stavidi/stepik-catalogue "utilities")
 
-About me: I love coffee :coffee: and pizza :pizza:
+> About me: I love coffee :coffee: and two pizza :pizza: :pizza:
 
 <!--
 **stavidi/stavidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
